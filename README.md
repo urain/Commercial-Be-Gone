@@ -1,5 +1,5 @@
 # Commercial-Be-Gone
-While streaming news channels this will mute audio when a commercial is detected.
+Mutes audio when a commercial is detected.
 
 ## DESCRIPTION: 
 While streaming news for example, this program can automatically mute audio when it detects that commercials are playing i.e. While watching CNN, Fox, etc; the news logo is always visible while the program is active. However, when it cuts to commercial the logo disappears.
